@@ -2,17 +2,7 @@
 <!-- Project Title -->
 # Profile Card
 🚀 A Stunning Profile Card with Glassmorphism and Neumorphism Effects! 🌟
-
-[![GitHub stars](https://img.shields.io/github/stars/SwamiTheDev/Profile_card?style=for-the-badge)](https://github.com/SwamiTheDev/Profile_card/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/SwamiTheDev/Profile_card?style=for-the-badge)](https://github.com/SwamiTheDev/Profile_card/network)
-[![GitHub issues](https://img.shields.io/github/issues/SwamiTheDev/Profile_card?style=for-the-badge)](https://github.com/SwamiTheDev/Profile_card/issues)
-
-[![View Live](https://img.shields.io/badge/View%20Live-🌐-brightgreen?style=for-the-badge)](https://profilecard-swamithedev.vercel.app/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-🔗-blue?style=for-the-badge)](https://github.com/SwamiTheDev/Profile_card)
-
-![Profile Card](assets/profile-card-preview.png)
-
----
+ 
 
 <!-- Project Purpose -->
 ## Project Purpose 🎯
