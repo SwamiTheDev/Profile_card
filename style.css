@@ -122,19 +122,31 @@ body{
   height: 100%;
   line-height: 40px;
 }
-.social-icons a.fb i{
+.social-icons a.github i{
   color: #4267B2;
 }
-.social-icons a.twitter i{
+.social-icons a.linkedin i{
   color: #1DA1F2;
 }
-.social-icons a.insta i{
+.social-icons a.website i{
   color: #E1306C;
 }
-.social-icons a.yt i{
+.social-icons a.mail i{
   color: #ff0000;
 }
-  
+ .codepen{
+    color: black;
+ }
+ .about{
+    color: #1DA1F2 !important;
+ }
+ .__aboutline{
+    color: black;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+ }
 .row:first-child::before{
   background: none;
 }
