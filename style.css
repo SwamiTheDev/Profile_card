@@ -165,3 +165,22 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
+@media only screen and (max-width: 500px) {
+     .wrapper{
+        width: 90% !important;
+     }
+  }
+
+  @media only screen and (max-width: 350px) {
+    .wrapper{
+       width: 90% !important;
+    }
+    .name{
+        text-align: center;
+    }
+    .social-icons{
+        padding: 5px;
+        margin-right: 5px !important;
+        margin-left: 5px !important;
+    }
+ }
